@@ -4,7 +4,7 @@ A complete machine learning project for detecting misinformation using NLP, TF-I
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 fake_news_detector/
@@ -26,7 +26,7 @@ fake_news_detector/
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Install dependencies
 
@@ -44,20 +44,20 @@ The app opens at **http://localhost:8501**
 
 ---
 
-## 📖 App Pages
+## App Pages
 
 | Page | What we'll learn |
 |------|-------------------|
-| 🏠 Overview | Dataset preview, label distribution, text length EDA |
-| 🔬 Train Model | Train LR pipeline, see live metrics & CV scores |
-| 🔍 Live Detector | Paste any article → real-time classification + feature breakdown |
-| 📊 Model Evaluation | Confusion matrix, ROC curve, Precision-Recall curve, CV plot |
-| 🧠 Feature Analysis | Top LR weights, linguistic feature distributions, TF-IDF demo |
-| 📚 LSTM Theory | LSTM gates, architecture diagram, Keras implementation reference |
+| Overview | Dataset preview, label distribution, text length EDA |
+| Train Model | Train LR pipeline, see live metrics & CV scores |
+| Live Detector | Paste any article → real-time classification + feature breakdown |
+| Model Evaluation | Confusion matrix, ROC curve, Precision-Recall curve, CV plot |
+| Feature Analysis | Top LR weights, linguistic feature distributions, TF-IDF demo |
+| LSTM Theory | LSTM gates, architecture diagram, Keras implementation reference |
 
 ---
 
-## 🧪 ML Pipeline
+## ML Pipeline
 
 ```
 Raw Text
@@ -84,7 +84,7 @@ Raw Text
 
 ---
 
-## 📊 Expected Results
+## Expected Results
 
 | Metric | Value |
 |--------|-------|
@@ -96,7 +96,7 @@ Raw Text
 
 ---
 
-## 🔧 Using Real Data
+## Using Real Data
 
 Replace the synthetic dataset with the Kaggle Fake/Real News dataset:
 
@@ -116,7 +116,7 @@ Then pass `df` to `train_and_evaluate(df)`.
 
 ---
 
-## 📚 Key Concepts
+## Key Concepts
 
 ### TF-IDF
 ```
