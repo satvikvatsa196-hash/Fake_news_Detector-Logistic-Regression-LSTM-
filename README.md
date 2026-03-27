@@ -46,7 +46,7 @@ The app opens at **http://localhost:8501**
 
 ## 📖 App Pages
 
-| Page | What you'll learn |
+| Page | What we'll learn |
 |------|-------------------|
 | 🏠 Overview | Dataset preview, label distribution, text length EDA |
 | 🔬 Train Model | Train LR pipeline, see live metrics & CV scores |
